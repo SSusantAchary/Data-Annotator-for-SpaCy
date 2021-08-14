@@ -8,6 +8,8 @@ SpAnnor(Spacy Annotator) annotator for Named Entity Recognition (NER) easy to us
 
 <img src="https://github.com/SSusantAchary/Data-Annotator-for-SpaCy/blob/main/src/Steps.gif" width = "720">
 
+Images are attached in 'src' folder
+
 # Installation ⌨️
 1. Download the Code and Unzip
 
