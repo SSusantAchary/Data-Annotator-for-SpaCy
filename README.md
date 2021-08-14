@@ -28,7 +28,7 @@ Give a 🌟 if this repo helped you!
 ```bibtex
 @misc{Curious Soul,
     author       = {Susant Achary},
-    title        = {Data-Annotatot-for-SpaCy},
+    title        = {Data-Annotator-for-SpaCy},
     year         = {2021}
 }
 ```
