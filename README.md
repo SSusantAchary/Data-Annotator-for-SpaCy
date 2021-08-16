@@ -19,7 +19,7 @@ Images are attached in 'src' folder
 
 <!-- LICENSE -->
 ## License
-Distributed under the  Unlicense License. 😊
+Distributed under the Unlicense(Free) License. 😊
 
 ## Show your support
 Give a 🌟 if this repo helped you! 
