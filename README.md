@@ -1,6 +1,6 @@
 # Data-Annotator-for-SpaCy ⚡
 
-SpAnnor(Spacy Annotator) annotator for Named Entity Recognition (NER) easy to use tool. The annotator allows users to quickly assign (custom) labels to one or more entities in the text.
+SpAnnor(Spacy Annotator) annotator for Named Entity Recognition (NER) easy to use tool. The annotator allows users to quickly assign (custom) labels to one or more entities in the text. Generates Traning Data as a JSON which can be readily used.
 
 <img src="https://github.com/SSusantAchary/Data-Annotator-for-SpaCy/blob/main/src/Screen.PNG" width="1000">
 
