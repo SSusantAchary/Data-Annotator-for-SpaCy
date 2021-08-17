@@ -5,11 +5,11 @@ SpAnnor(Spacy Annotator) annotator for Named Entity Recognition (NER) easy to us
 <img src="https://github.com/SSusantAchary/Data-Annotator-for-SpaCy/blob/main/src/Screen.PNG" width="1000">
 
 # Application of NER Annotation: 🖊️
-✅ Customer Support - Banking & Finance, BPOs, Categorize Tickets
-✅ Product Review - Amazon, Trivago, Airbnb
-✅ Content Recommendation - Medium, HackerNoon, Twitter, News Articles
-✅ Biomedical data: Gene, DNA identification, and drug ,disease names. 
-✅ Semantic Annotations- concept extraction, relationship extraction .
+✅ Customer Support - Banking & Finance, BPOs, Categorize Tickets <br>
+✅ Product Review - Amazon, Trivago, Airbnb<br>
+✅ Content Recommendation - Medium, HackerNoon, Twitter, News Articles<br>
+✅ Biomedical data: Gene, DNA identification, and drug ,disease names.<br> 
+✅ Semantic Annotations- concept extraction, relationship extraction .<br>
 
 many more .....
 
