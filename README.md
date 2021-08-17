@@ -1,8 +1,17 @@
-# Data-Annotator-for-SpaCy
+# Data-Annotator-for-SpaCy ⚡
 
 SpAnnor(Spacy Annotator) annotator for Named Entity Recognition (NER) easy to use tool. The annotator allows users to quickly assign (custom) labels to one or more entities in the text.
 
 <img src="https://github.com/SSusantAchary/Data-Annotator-for-SpaCy/blob/main/src/Screen.PNG" width="1000">
+
+# Application of NER Annotation: 🖊️
+✅ Customer Support - Banking & Finance, BPOs, Categorize Tickets
+✅ Product Review - Amazon, Trivago, Airbnb
+✅ Content Recommendation - Medium, HackerNoon, Twitter, News Articles
+✅ Biomedical data: Gene, DNA identification, and drug ,disease names. 
+✅ Semantic Annotations- concept extraction, relationship extraction .
+
+many more .....
 
 # Steps to Use Tool 🚀
 
@@ -19,7 +28,7 @@ Images are attached in 'src' folder
 
 <!-- LICENSE -->
 ## License
-Distributed under the  Unlicense License. 😊
+Unlicense (Free) License. 😊
 
 ## Show your support
 Give a 🌟 if this repo helped you! 
